@@ -1,0 +1,9 @@
+{
+  "title": "$:/plugins/starRanger/reasonflow",
+  "name": "reasonflow",
+  "author": "starRanger",
+  "description": "",
+  "plugin-type": "plugin",
+  "version": "0.0.1",
+  "list": "readme"
+}
